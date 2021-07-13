@@ -5,4 +5,4 @@ I write  Whole Environment From Scrach and impliment two RL agent
 - Based on Monte- Carlo Algorithm 
 - Based on T-D(Temporal Difference) lambda Algorithm
 
-If You go through the code You will Understood Easily how I implimented it
+##### If you go through the code You will Understood Easily how I implimented it.
